@@ -10,6 +10,7 @@
 			<class name="Academy.HomePage" />
 		</classes>
 	</test>
+	
 	<test name="Validating title in the Page">
 		<classes>
 			<class name="Academy.validateTitle" />
